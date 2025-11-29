@@ -31,15 +31,15 @@
 <tr>
 <td><a href="https://interior-design-for-hotels-website.netlify.app/">IntraDesign</a></td>
 <td>
-Next.js 
-Typescript 
-React 
-TailwindCSS v4 
-Framer Motion
-SwiperJS 
-Remix Icon/Bootstrap Icons/FontAwesome Brands 
-React CountUp 
-Yet-Another-React-Lightbox  
+Next.js •
+Typescript •
+React •
+TailwindCSS v4 •
+Framer Motion •
+SwiperJS •
+Remix Icon/Bootstrap Icons/FontAwesome Brands • 
+React CountUp •
+Yet-Another-React-Lightbox 
 </td>
 <td><a href="https://github.com/AbdullayevaFatma/interior-design-website">Repo Link</a></td>
 </tr>
