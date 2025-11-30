@@ -55,14 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullayevaFatma&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdullayevaFatma&theme=dark&hide_border=true)  
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullayevaFatma&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
-
----
-
 ## ✍️ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
