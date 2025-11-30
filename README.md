@@ -47,15 +47,15 @@ Yet-Another-React-Lightbox
 <tr>
 <td><a href="https://the-hotel-staff.netlify.app/">The Hotel UI for Staff</a></td>
 <td>
-Supabase <br/>
-TanStack React Query <br/>
-React Hook Form <br/>
-Styled Components  <br/>
-Recharts <br/>
-date-fns <br/>
-React Hot Toast   <br/>
-React Icons  <br/>
-Vite <br/>
+Supabase •
+TanStack React Query •
+React Hook Form •
+Styled Components •
+Recharts •
+date-fns •
+React Hot Toast •
+React Icons •
+Vite 
 </td>
 <td><a href="https://github.com/AbdullayevaFatma/the-hotel">Repo Link</a></td>
 </tr>
@@ -63,8 +63,8 @@ Vite <br/>
 <tr>
 <td><a href="https://voltnet.netlify.app/">Voltnet</a></td>
 <td>
-JavaScript <br/>
-CSS <br/>
+JavaScript •
+CSS •
 EmailJS
 </td>
 <td><a href="https://github.com/AbdullayevaFatma/voltnet">Repo Link</a></td>
@@ -73,11 +73,11 @@ EmailJS
 <tr>
 <td><a href="https://bakuuniversity.netlify.app/">Baku University</a></td>
 <td>
-React <br/>
-React Router <br/>
-Firebase <br/>
-Context API <br/>
-Tailwind CSS <br/>
+React •
+React Router •
+Firebase •
+Context API •
+Tailwind CSS •
 React Hot Toast
 </td>
 <td><a href="https://github.com/AbdullayevaFatma/baku_university">Repo Link</a></td>
@@ -86,16 +86,54 @@ React Hot Toast
 <tr>
 <td><a href="https://elanea.netlify.app/">Elanea</a></td>
 <td>
-React <br/>
-React Router <br/>
-React Slick  <br/>
-Context API <br/>
-Tailwind CSS <br/>
+React •
+React Router •
+React Slick •
+Context API •
+Tailwind CSS •
 React Toastify
 </td>
 <td><a href="https://github.com/AbdullayevaFatma/elanea">Repo Link</a></td>
 </tr>
 
+
+
+<tr>
+<td><a href="https://nutritiousreact.netlify.app/">nutritious</a></td>
+<td>
+React •
+CSS •
+Context API   
+</td>
+<td><a href="https://github.com/AbdullayevaFatma/nutritious">Repo Link</a></td>
+</tr>
+
+
+
+<tr>
+<td><a href="https://tekvora.netlify.app/">Tekvora</a></td>
+<td>
+React •
+React Router •
+Redux Toolkit •
+Tailwind CSS •
+Lucide React
+</td>
+<td><a href="https://github.com/AbdullayevaFatma/tekvora">Repo Link</a></td>
+</tr>
+
+
+
+<tr>
+<td><a href="https://spotifyclonewebsitereact.netlify.app/">Spotify Clone</a></td>
+<td>
+React •
+React Router •
+TailwindCSS v4 •
+Vite
+</td>
+<td><a href="https://github.com/AbdullayevaFatma/spotify_clone">Repo Link</a></td>
+</tr>
 </tbody>
 </table>
 
