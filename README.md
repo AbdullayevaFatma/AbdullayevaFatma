@@ -1,6 +1,6 @@
 # 👨‍💻 Full-Stack Developer | Career Changer to Tech
 
-🚀 Javascript • React • Next.js • Node.js • MongoDB • Tailwind CSS 
+🚀 Javascript • React • Next.js • Node.js • MongoDB • Tailwind CSS <br/>
 💼 5+ years in client-facing roles → now building user-centric solutions  
 🌱 Currently mastering backend development & system design  
 📫 Open to opportunities & collaboration  
