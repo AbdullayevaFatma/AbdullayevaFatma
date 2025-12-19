@@ -46,6 +46,7 @@
 |-----------------|-------------------------|-----------|
 | [IntraDesign](https://interior-design-for-hotels-website.netlify.app/) | Next.js • Typescript • React • TailwindCSS v4 • Framer Motion • SwiperJS • Remix Icon/Bootstrap Icons/FontAwesome Brands • React CountUp • Yet-Another-React-Lightbox | [Repo](https://github.com/AbdullayevaFatma/interior-design-website) |
 | [The Hotel UI for Staff](https://the-hotel-staff.netlify.app/) | Supabase • TanStack React Query • React Hook Form • Styled Components • Recharts • date-fns • React Hot Toast • React Icons • Vite | [Repo](https://github.com/AbdullayevaFatma/the-hotel) |
+| [VESPER Restaurant&Bar](https://vesper-5gsrlmqz7-abdullas-projects-3772d846.vercel.app/) | Next.js • JavaScript • Tailwind CSS • React Leaflet • MongoDB Atlas • Mongoose | [Repo](https://github.com/AbdullayevaFatma/vesper) |
 | [Voltnet](https://voltnet.netlify.app/) | JavaScript • CSS • EmailJS | [Repo](https://github.com/AbdullayevaFatma/voltnet) |
 | [Baku University](https://bakuuniversity.netlify.app/) | React • React Router • Firebase • Context API • Tailwind CSS • React Hot Toast | [Repo](https://github.com/AbdullayevaFatma/baku_university) |
 | [Elanea](https://elanea.netlify.app/) | React • React Router • React Slick • Context API • Tailwind CSS • React Toastify | [Repo](https://github.com/AbdullayevaFatma/elanea) |
