@@ -44,6 +44,7 @@
 
 | Project Live Link | Libraries & Technologies | Repo Link |
 |-----------------|-------------------------|-----------|
+| [INTERNATIONAL SCHOOL](international-school-two.vercel.app/) | Next.js • React 19 • TailwindCSS v4 • Clerk Auth • Prisma  • Cloudinary • React Hook Form • Zod • Recharts • React Calendar / Big Calendar • Axios • React Toastify | [Repo](https://github.com/AbdullayevaFatma/international_school) |
 | [blog](https://blog-abdulla.vercel.app/) | Next.js • React 19 • shadcn/ui • TailwindCSS v4 • MongoDB & Mongoose • JWT (jsonwebtoken) • Cloudinary • React Hook Form • Zod • Axios • React Toastify | [Repo](https://github.com/AbdullayevaFatma/blog) |
 | [IntraDesign](https://interior-design-for-hotels-website.netlify.app/) | Next.js • Typescript • React • TailwindCSS v4 • Framer Motion • SwiperJS • Remix Icon/Bootstrap Icons/FontAwesome Brands • React CountUp • Yet-Another-React-Lightbox | [Repo](https://github.com/AbdullayevaFatma/interior-design-website) |
 | [The Hotel UI for Staff](https://the-hotel-staff.netlify.app/) | Supabase • TanStack React Query • React Hook Form • Styled Components • Recharts • date-fns • React Hot Toast • React Icons • Vite | [Repo](https://github.com/AbdullayevaFatma/the-hotel) |
